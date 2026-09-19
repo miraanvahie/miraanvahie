@@ -1,16 +1,17 @@
-## Hi there 👋
+### Miraan Vahie
 
-<!--
-**miraanvahie/miraanvahie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like the part of machine learning where you find out you were wrong. A model that scores well
+usually means something leaked, and chasing down which thing leaked is the most interesting
+work there is.
 
-Here are some ideas to get you started:
+Mostly I write Python — pipelines, models, and the boring tooling that makes results
+reproducible a month later. Lately that's meant time series and financial data, but the pull
+is the same wherever it shows up: take messy real-world data, work out what's actually
+signal, and be honest about the rest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've also put scoring models onto microcontrollers in the field, which is a good cure for
+believing your code works.
+
+Python · PyTorch · scikit-learn · pandas · SQL. Picking up Docker and AWS by needing them.
+
+Open for Summer 2027 · [LinkedIn](https://linkedin.com/in/miraanvahie) 
